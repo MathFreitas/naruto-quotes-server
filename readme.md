@@ -1,6 +1,6 @@
-Naruto Quotes Api
+One Piece Quotes Api
 ====================
-Simple app to generate random Naruto quotes using Python and Flask
+Simple app to generate random One Piece quotes using Python and Flask
 
 # Running locally
 With Python and Pip installed, install the dependencies with:
